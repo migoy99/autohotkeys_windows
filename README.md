@@ -1,4 +1,4 @@
-# Windows AutoHotkey Startup Script
+# Windows AutoHotkey Scripts
 
 Download and install AutoHotkey from here: https://www.autohotkey.com/
 
